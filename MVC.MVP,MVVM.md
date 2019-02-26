@@ -21,4 +21,4 @@ view双向箭头符号presenter双向箭头符号model
 mvvm将presenter改名为viewmodel，基本上和mvp模式一致  
 
 
-原文地址：[MVC，MVP 和 MVVM 的图示]（http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html “MVC，MVP 和 MVVM 的图示”）
+原文地址：[MVC，MVP和MVVM的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html "MVC，MVP和MVVM的图示")
